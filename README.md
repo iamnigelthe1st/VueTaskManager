@@ -17,7 +17,7 @@ Here is a quick look at the application in action. You can add new tasks, toggle
 <p align="center">
   <img src="./demo.gif" alt="Vue Task Manager Demo" width="600px" />
 </p>
-*(To create this `demo.gif`, use a tool like [LiceCap](https://www.cockos.com/licecap/) or [ScreenToGif](https://www.screentogif.com/) to record the app running in your browser).*
+![Image](https://github.com/user-attachments/assets/35c5cc2e-14c4-4e5f-93b2-23b3926d3ac2)
 
 ---
 
