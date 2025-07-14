@@ -17,7 +17,8 @@ Here is a quick look at the application in action. You can add new tasks, toggle
 <p align="center">
   <img src="./demo.gif" alt="Vue Task Manager Demo" width="600px" />
 </p>
-![Image](https://github.com/user-attachments/assets/35c5cc2e-14c4-4e5f-93b2-23b3926d3ac2)
+![VueTaskManager](https://github.com/user-attachments/assets/c6727f25-d731-4870-83de-036ff6acb050)
+
 
 ---
 
