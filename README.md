@@ -15,9 +15,9 @@
 Here is a quick look at the application in action. You can add new tasks, toggle their completion status, and delete them. The task summary updates in real-time!
 
 <p align="center">
-  <img src="./demo.gif" alt="Vue Task Manager Demo" width="600px" />
+  ![VueTaskManager](https://github.com/user-attachments/assets/c6727f25-d731-4870-83de-036ff6acb050)
 </p>
-![VueTaskManager](https://github.com/user-attachments/assets/c6727f25-d731-4870-83de-036ff6acb050)
+
 
 
 ---
