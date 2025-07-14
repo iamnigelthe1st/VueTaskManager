@@ -75,24 +75,4 @@ Follow these steps to get the project running on your local machine.
 ```bash
 git clone https://github.com/YourUsername/my-vue-task-manager.git
 
----
-
-📁 File Structure
-Here is an overview of the key files in this project:
-
-/
-├── public/
-│   └── favicon.ico
-├── src/
-│   ├── assets/
-│   │   └── main.css       # Global styles
-│   ├── components/
-│   │   ├── AddTaskForm.vue  # Component for the new task form (emits events)
-│   │   └── TaskList.vue     # Component to display tasks (receives props, emits events)
-│   ├── App.vue            # Main application component (state, logic, container)
-│   └── main.js            # Vue application entry point
-├── .gitignore             # Files to be ignored by Git
-├── index.html             # The single HTML page shell
-├── package.json           # Project dependencies and scripts
-└── README.md              # You are here!
 
